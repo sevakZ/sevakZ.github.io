@@ -13,3 +13,4 @@ title: Sevak Zkani
 # [Blog_6](https://sevakZ.github.io/sevakZ.github.io/posts/2020/10/16/Blog_6.html)
 # [Blog_7](https://sevakZ.github.io/sevakZ.github.io/posts/2020/10/23/Blog_7.html)
 # [Blog_8](https://sevakZ.github.io/sevakZ.github.io/posts/2020/10/30/Blog_8.html)
+# [Blog_9](https://sevakZ.github.io/sevakZ.github.io/posts/2020/11/06/Blog_9.html)
